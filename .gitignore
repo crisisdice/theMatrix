@@ -4,4 +4,6 @@
 *.out
 *.so
 
-
+#python
+**/__pycache__
+db.sqlite3
