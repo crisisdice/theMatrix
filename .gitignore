@@ -4,4 +4,9 @@
 *.out
 *.so
 
+#csharp
+**/bin
+**/obj
+**/.vs
+*.dll
 
